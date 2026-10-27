@@ -16,5 +16,5 @@ public class A7eehIsa {
         System.out.println("hiii");
         Scanner sc = new Scanner(System.in);
     }
-   fatima mostafa
+mariiii
 }
