@@ -13,7 +13,7 @@ public class A7eehIsa {
     public static void main(String[] args) {
         System.out.println("hiii");
     }
-    fatima
+   fatima
     mostafa
-            farouk
+
 }
