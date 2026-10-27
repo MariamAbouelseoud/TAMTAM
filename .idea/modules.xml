@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MARSSSSSS/MARSSSSSS.iml" filepath="$PROJECT_DIR$/MARSSSSSS/MARSSSSSS.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/TAMTAM.iml" filepath="$PROJECT_DIR$/.idea/TAMTAM.iml" />
       <module fileurl="file://$PROJECT_DIR$/a7eeh isa/a7eeh isa.iml" filepath="$PROJECT_DIR$/a7eeh isa/a7eeh isa.iml" />
-      <module fileurl="file://$PROJECT_DIR$/fatima/fatima.iml" filepath="$PROJECT_DIR$/fatima/fatima.iml" />
     </modules>
   </component>
 </project>
