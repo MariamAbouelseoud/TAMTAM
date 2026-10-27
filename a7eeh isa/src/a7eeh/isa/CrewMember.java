@@ -13,4 +13,7 @@ public abstract class CrewMember {
     protected boolean isavailable;
     protected Set<Capability> capabilities;
 
+    haniaaa
+
+
 }
