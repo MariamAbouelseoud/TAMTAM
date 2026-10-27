@@ -9,5 +9,7 @@ package a7eeh.isa;
  * @author HP
  */
 public class NewClass {
+    private int age;
+    private String Name;
     
 }
